@@ -38,7 +38,7 @@ def handle_start(message):
         bot.reply_to(
             message,
             f"🚫 𝗬𝗢𝗨 𝗠𝗨𝗦𝗧 𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗧𝗢 𝗨𝗦𝗘 𝗧𝗛𝗜𝗦 𝗕𝗢𝗧!\n\n"
-            f"🔗 𝗝𝗢𝗜𝗡 𝗡𝗢𝗪: [Join Channel](https://t.me/+aTykrekd1YJlNDc1})",
+            f"🔗 𝗝𝗢𝗜𝗡 𝗡𝗢𝗪: [Join Channel](https://t.me/+aTykrekd1YJlNDc1)",
             parse_mode="Markdown"
         )
         return
@@ -55,7 +55,7 @@ def handle_attack(message):
         bot.reply_to(
             message,
             f"🚫 𝗬𝗢𝗨 𝗠𝗨𝗦𝗧 𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗧𝗢 𝗨𝗦𝗘 𝗧𝗛𝗜𝗦 𝗖𝗢𝗠𝗠𝗔𝗡𝗗!\n\n"
-            f"🔗 𝗝𝗢𝗜𝗡 𝗡𝗢𝗪: [Join Channel](https://t.me/+aTykrekd1YJlNDc1})",
+            f"🔗 𝗝𝗢𝗜𝗡 𝗡𝗢𝗪: [Join Channel](https://t.me/+aTykrekd1YJlNDc1)",
             parse_mode="Markdown"
         )
         return
